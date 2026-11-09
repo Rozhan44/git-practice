@@ -9,3 +9,10 @@ This is my first Git practice repository.
 
 ## Goal
 Learning Git and GitHub.
+## What I Learned
+
+- Git basics
+- Branching
+- Merging
+- SSH connection
+- GitHub
